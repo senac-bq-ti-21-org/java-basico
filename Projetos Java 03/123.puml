@@ -1,7 +1,0 @@
-@startuml
-class java.util.Scanner
-class projetosjava03.Decresente_e_soma
-class projetosjava03.Dia_da_semana
-class projetosjava03.Dois_em_dois
-projetosjava03.Dia_da_semana ..> java.util.Scanner
-@enduml
